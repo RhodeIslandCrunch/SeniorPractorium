@@ -1,0 +1,9 @@
+This was a senior project for Clemson University, we worked together in small teams of 5 following Agile Methodology
+
+What is uploaded was the final state of my own branch of the project, reuploaded here since we were using Azure Devops for the project to assign tasks and hold repositories
+However most of the linked AWS resources no longer exist so while the program did work at the time, it no longer has access to many of its resources it would check for login and product catalogs to name a few
+
+Our senior project was a web based application using python and the Django library within it to have a website where sponsors, users, and brands can log in and reward their employees,
+This was specifically for drivers to be rewarded for being safe, efficent and on time.
+
+We then had our fake company called OnlyDrivers
